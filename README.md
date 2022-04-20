@@ -1,1 +1,1 @@
-# budfy-v2.0
+# Budfy v2.0
